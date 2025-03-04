@@ -1,4 +1,6 @@
-## Hi there 👋
+## Katrina
+
+Thanks for visiting my personal Github page. I'm a CFA charterholder working in quant finance and software development broadly. Please have a look around and check out my [🌐 LinkedIn](https://www.linkedin.com/in/katrina-zathey-b38b93171/) or send me an [📧 E-mail](mailto:katrina.zathey@gmail.com) to get in touch.
 
 <!--
 **KatrinaJames/KatrinaJames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
